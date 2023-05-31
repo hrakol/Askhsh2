@@ -8,7 +8,7 @@ public class MyClass {
 	 if ((x - y) < 0) {
 		 return "negative";
 	 }
-	 else return "0";
+	 else return "zero";
  	}
 }
 
