@@ -18,6 +18,6 @@ class MyClassTest {
  @Test
  void tesSubtract2() {
 	 MyClass tester = new MyClass();
-	 assertEquals("0", tester.subtract(9, 9), "The result should be zero");
+	 assertEquals("zero", tester.subtract(9, 9), "The result should be zero");
  } 
  }
